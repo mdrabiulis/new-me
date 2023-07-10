@@ -5,8 +5,72 @@
 
 
 /* =========header======= */
+
+
 .header-iteam{
-    display: flex;
-    /* align-items: center;
-    justify-content: space-around; */
+    height: 100vh;
+    /* background-color: aqua; */
+    background-image: url('./images/banner/banner1.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
 }
+
+.header-title{
+    color: #151414;
+    display: flex;
+    width: 525px;
+    flex-direction: column;
+    flex-shrink: 0;
+    padding: 200px 20px 40px 1200px ;
+    justify-content: space-between;
+    
+    
+
+}
+
+.title-iteam{
+    color: #151414;
+    width: 525px;
+    text-align: right;
+    font-size: 65px; 
+    margin-bottom: 20px;
+
+}
+
+
+
+.title-description{
+    color: #444343;
+text-align: right;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+margin-bottom: 20px;
+}
+
+
+.btn-primay{
+    color: #FFF;;
+    width: 120px;
+    height: 40px;
+    text-align:center;
+    font-size: 20px; 
+    margin-bottom: 20px;
+    margin-left: 405px;
+    border-radius: 5px;
+    background: #F15B22;
+    border: none;
+    
+
+}
+
+
+
+
+
+
+
+
+
