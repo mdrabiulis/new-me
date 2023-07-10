@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/* =========header======= */
+.header-iteam{
+    display: flex;
+    /* align-items: center;
+    justify-content: space-around; */
+}
